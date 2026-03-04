@@ -1,0 +1,10 @@
+{
+  "name": "Microsoft Learn Priority",
+  "description": "Prioritizes official Microsoft Learn documentation and provides complete beginner-friendly step-by-step instructions for all Microsoft products. Triggered by starting your message with 'Microsoft learn'.",
+  "triggers": [
+    {
+      "type": "keyword",
+      "value": "Microsoft learn"
+    }
+  ]
+}
