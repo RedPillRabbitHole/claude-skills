@@ -1,0 +1,10 @@
+{
+  "name": "banana",
+  "description": "AI image generation Creative Director using Google Gemini Nano. Generates, edits, and refines images with prompt engineering expertise.",
+  "triggers": [
+    {
+      "type": "keyword",
+      "value": "/banana"
+    }
+  ]
+}
