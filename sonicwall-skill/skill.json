@@ -1,0 +1,34 @@
+{
+  "name": "SonicWall Skill",
+  "description": "Provides step-by-step SonicWall configuration instructions using official SonicWall documentation as the primary source. Covers SonicWall firewalls (TZ, NSa, NSsp, NSv series), Cloud Secure Edge (CSE) ZTNA/SASE platform, and Network Security Manager (NSM) centralised management. Always searches official docs first. Prioritises GUI over CLI. Provides accurate, verified, beginner-friendly instructions.",
+  "triggers": [
+    {
+      "type": "keyword",
+      "value": "SonicWall"
+    },
+    {
+      "type": "keyword",
+      "value": "SonicOS"
+    },
+    {
+      "type": "keyword",
+      "value": "Cloud Secure Edge"
+    },
+    {
+      "type": "keyword",
+      "value": "CSE connector"
+    },
+    {
+      "type": "keyword",
+      "value": "NSM"
+    },
+    {
+      "type": "keyword",
+      "value": "Network Security Manager"
+    },
+    {
+      "type": "keyword",
+      "value": "MySonicWall"
+    }
+  ]
+}
